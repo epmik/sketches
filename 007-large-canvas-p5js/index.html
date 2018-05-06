@@ -1,0 +1,101 @@
+<html>
+<head>
+    <title class="sketch-title"></title>
+    <link href="https://fonts.googleapis.com/css?family=Ubuntu" rel="stylesheet">
+    <style>
+        :after, :before {
+            -webkit-box-sizing: border-box;
+            -moz-box-sizing: border-box;
+            box-sizing: border-box;
+        }
+        * {
+            -webkit-box-sizing: border-box;
+            -moz-box-sizing: border-box;
+            box-sizing: border-box;
+        }
+        html {
+            font-size: 16px;
+        }
+        body {
+            margin: 1rem 2rem;
+            padding: 0;
+            background-color: #fff;
+            font-family: 'Ubuntu', sans-serif;
+            text-align: center;
+        }
+        a {
+            color: #0366d6;
+            text-decoration: none;
+        }
+        .col{
+            float: left;
+            width: 50%;
+        }
+        select{
+            padding: 0.25rem 0.5rem;
+        }
+        input.number{
+            width: 80px;
+            padding: 4px 8px;
+            text-align: center;
+        }
+        .column-4{
+            width: 25%;
+            float:left;
+            text-align: center;
+        }
+        #canvas-container canvas{
+/*            border: solid 1px #000;*/
+        }
+    </style>
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-116307652-1"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'UA-116307652-1');
+    </script>
+</head>
+<body>
+    <h1 class="sketch-title"></h1>
+    <div style="margin: 1rem 0;">
+        <a class="save-frame" href="">Save frame</a>
+    </div>
+    <div id="canvas-container" style="margin: 3rem 0 0 0;">
+    </div>
+    <div style="margin: 1rem 0;">
+        <a class="save-frame" href="">Save frame</a>
+    </div>
+    <!-- <div style="margin: 4rem 0;">
+        <div class="column-4">
+            noise scale x
+            <div><input class="number" type="text" id="noise-scale-x" /></div>
+        </div>
+        <div class="column-4">
+            noise scale y
+            <div><input class="number" type="text" id="noise-scale-y" /></div>
+        </div>
+        <div class="column-4">
+            noise y divider
+            <div><input class="number" type="text" id="noise-y-divider" /></div>
+        </div>
+        <div class="column-4">
+            total noise divider
+            <div><input class="number" type="text" id="total-noise-divider" /></div>
+        </div>
+    </div> -->
+    <div>
+        <a href="../">Return to start page</a>
+    </div>
+    
+    <script src="../js/jquery/jquery-3.3.1.js"></script>
+    <script src="../js/p5/p5.js"></script>
+    <script src="js/app.math.js"></script>
+    <script src="js/app.utility.js"></script>
+    <script src="js/app.random.js"></script>
+    <script src="js/app.noise.js"></script>
+    <script src="js/app.collision.js"></script>
+    <script src="js/app.js"></script>
+    <script src="js/main.js"></script>
+</body>
+</html>
