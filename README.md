@@ -1,6 +1,6 @@
 # A collection of try-outs, games, stuff, etc...
 
-###Development try-outs in p5.js
+### Development try-outs in p5.js
 
 [Fuzzy lines](001-fuzzy-lines)
 
@@ -13,10 +13,10 @@
 [Large canvas test](007-large-canvas-p5js)
 
 
-###Development try-outs in three.js
+### Development try-outs in three.js
 
 [Import blender mesh](002-import-blender-mesh-threejs)
 
-###A game designed by my son in development
+### A game designed by my son in development
 
 [Import blender mesh](002-import-blender-mesh-threejs)
