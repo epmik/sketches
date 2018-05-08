@@ -24,3 +24,7 @@
 Made up and designed by my son when he was 9. It's called 'grot des doods' or 'cave of death'.
 
 [Grot des doods](008-grot-des-doods)
+
+### A game
+
+[Walk drop block](009-walk-drop-block-game)
