@@ -1,13 +1,13 @@
-# puzzles
-A collection of puzzles mainly written in javascript (p5, three.js)
+# A collection of try-outs, games, stuff, etc...
+###Development try-outs in p5.js
+[Fuzzy lines](001-fuzzy-lines)
+[Static waves](003-waves-static-p5js)
+[Animated waves](004-waves-animated-p5js)
+[Animated waves](005-waves-animated-p5js)
+[Large canvas test](007-large-canvas-p5js)
 
-[8 switch puzzle](eight-switch-puzzle)
+###Development try-outs in three.js
+[Import blender mesh](002-import-blender-mesh-threejs)
 
-[black/white flip puzzle](black-white-flip-puzzle)
-
-[pyramid flip puzzle](pyramid-flip-puzzle) not really a puzzle, but a 2-player game
-
-### Failed puzzles
-
-[line flip puzzle 1](line-flip-puzzle-way-to-simple)
-[line flip puzzle 1](line-flip-puzzle-just-as-simple)
+###A game designed by my son in development
+[Import blender mesh](002-import-blender-mesh-threejs)
