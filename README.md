@@ -1,8 +1,10 @@
 # A collection of try-outs, games, stuff, etc...
 
-### Development try-outs in p5.js
+## In development
 
-[Fuzzy lines](001-fuzzy-lines)
+### Try-outs in p5.js
+
+[Fuzzy lines](001-fuzzy-lines-p5js)
 
 [Static waves](003-waves-static-p5js)
 
@@ -13,10 +15,16 @@
 [Large canvas test](007-large-canvas-p5js)
 
 
-### Development try-outs in three.js
+### Try-outs in three.js
 
 [Import blender mesh](002-import-blender-mesh-threejs)
 
-### A game designed by my son in development
+### A table-top game
 
-[Import blender mesh](002-import-blender-mesh-threejs)
+Made up and designed by my son when he was 9. It's called 'grot des doods' or 'cave of death'.
+
+[Grot des doods](008-grot-des-doods)
+
+### A game
+
+[Walk drop block](009-walk-drop-block-game)
